@@ -1,0 +1,44 @@
+body{
+    margin: 10px;
+    background-color: black;
+}
+
+#home{
+    background-color: #483355;
+    margin-top: -1cm;
+    margin-left: -1cm;
+    margin-right: -1cm;
+    padding-top: 2cm;
+    padding-bottom: 2cm;
+    
+}
+header {
+    font-size: 30px;
+    color: rgb(240, 234, 245);
+    float: left;
+    padding-left: 2cm;
+}
+
+/* Navigation Bar Container */
+.topdiv{
+    float:right;
+    padding-right: 1cm;
+}
+
+/* Navigation Bar Buttons */
+.topmenu{
+    color: lightgrey;
+    background-color: #483355;
+    margin: 10px;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 1mm;
+    text-decoration: none;
+}
+
+.topmenu:hover{
+    color: white;
+    font-weight:bolder;
+    background-color: #382742;
+    text-decoration: underline;
+}
